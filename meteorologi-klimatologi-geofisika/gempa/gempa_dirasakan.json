@@ -1,0 +1,247 @@
+[
+  {
+    "waktu": "28/12/2021 22:50:18 WIB",
+    "lintang": "3.21 LS",
+    "bujur": "135.21 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km BaratLaut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "27/12/2021 15:32:19 WIB",
+    "lintang": "6.72 LS",
+    "bujur": "104.24 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 146 km Barat Daya Tanggamus",
+    "warning": [
+      "II Liwa",
+      "II Panjang",
+      "II Panimbang",
+      "II Labuan"
+    ]
+  },
+  {
+    "waktu": "26/12/2021 22:01:31 WIB",
+    "lintang": "0.06 LS",
+    "bujur": "123.49 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "90 Km",
+    "wilayah": "Pusat gempa berada di laut 73 Bolaang Mongondow Selatan",
+    "warning": [
+      "III Kotamobagu",
+      "II-III Gorontalo",
+      "II-III Luwuk",
+      "II-III Malili",
+      "II Poso",
+      "II Morowali"
+    ]
+  },
+  {
+    "waktu": "26/12/2021 21:09:13 WIB",
+    "lintang": "4.57 LS",
+    "bujur": "102.09 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km barat daya Seluma",
+    "warning": [
+      "II Arga Makmur",
+      "II Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "26/12/2021 04:48:55 WIB",
+    "lintang": "2.69 LS",
+    "bujur": "129.39 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km baratlaut Wahai",
+    "warning": [
+      "III Wahai"
+    ]
+  },
+  {
+    "waktu": "24/12/2021 20:19:13 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "126.84 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km Barat Obi",
+    "warning": [
+      "II Sanana"
+    ]
+  },
+  {
+    "waktu": "24/12/2021 20:04:15 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "121.11 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Baratlaut Luwu Timur",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
+    "waktu": "23/12/2021 14:44:18 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "116.47 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km TimurLaut Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Timur",
+      "II Mataram"
+    ]
+  },
+  {
+    "waktu": "23/12/2021 13:33:59 WIB",
+    "lintang": "7.02 LS",
+    "bujur": "105.49 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km barat daya Sumur",
+    "warning": [
+      "III Sumur",
+      "III Pandeglang",
+      "III Labuan",
+      "III Muarabinuangeun",
+      "III Bayah",
+      "III Wanasalam",
+      "III Malingping",
+      "III Cimanyangray",
+      "III Rangkasbitung",
+      "II Sukabumi",
+      "II Pelabuhanratu",
+      "II Cipamingkis",
+      "II Ujung Genteng",
+      "II Panimbang"
+    ]
+  },
+  {
+    "waktu": "23/12/2021 11:13:18 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.58 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di Laut 40 km TimurLaut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
+    "waktu": "22/12/2021 21:35:09 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.55 BT",
+    "magnitudo": "4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
+    "waktu": "22/12/2021 21:33:06 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "131.54 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
+    "waktu": "22/12/2021 09:54:54 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "117.5 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km timur laut Sumbawa",
+    "warning": [
+      "III-IV Sumbawa"
+    ]
+  },
+  {
+    "waktu": "21/12/2021 18:14:58 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "121.12 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 127 km Tenggara Selayar",
+    "warning": [
+      "II-III Bonerate"
+    ]
+  },
+  {
+    "waktu": "21/12/2021 11:31:29 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.55 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km Tenggara Kab. Bandung",
+    "warning": [
+      "II Talegong",
+      "II Pangalengan"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 21:41:50 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.86 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km tenggara Samosir",
+    "warning": [
+      "II Parapat"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 11:17:48 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "120.34 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat laut Ruteng",
+    "warning": [
+      "II-III Ruteng"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 07:41:30 WIB",
+    "lintang": "6.99 LS",
+    "bujur": "107.16 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur",
+    "warning": [
+      "II Cibeber"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 05:07:18 WIB",
+    "lintang": "7.37 LS",
+    "bujur": "121.86 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di 144 km baratlaut Maumere",
+    "warning": [
+      "II Pulau Kalaota"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 05:01:32 WIB",
+    "lintang": "7.43 LS",
+    "bujur": "121.88 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 137 km Baratlaut Maumere",
+    "warning": [
+      "II Pulau Kalaota"
+    ]
+  }
+]
