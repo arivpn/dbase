@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/12/2021 22:20:56 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "128.82 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km Timur Laut Nusalaut-Maluku Tengah",
+    "warning": [
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "30/12/2021 20:13:16 WIB",
     "lintang": "0.16 LS",
     "bujur": "125.31 BT",
@@ -7,13 +18,15 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 128 km tenggara Boltim",
     "warning": [
-      "III Boltim",
+      "III Bolaang Mongondow Timur",
       "III Kabupaten Gorontalo",
       "III Kota Gorontalo",
       "III Poso",
+      "III Minahasa Selatan",
+      "III Minahasa",
       "II Gorontalo Utara",
-      "II Tomohon",
-      "II Kotamobagu"
+      "II Kotamobagu",
+      "II Tomohon"
     ]
   },
   {
@@ -249,17 +262,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km timur laut Sumbawa",
     "warning": [
       "III-IV Sumbawa"
-    ]
-  },
-  {
-    "waktu": "21/12/2021 18:14:58 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "121.12 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 127 km Tenggara Selayar",
-    "warning": [
-      "II-III Bonerate"
     ]
   }
 ]
