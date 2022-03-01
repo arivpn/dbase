@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "01/03/2022 22:37:03 WIB",
+    "lintang": "0.22 LU",
+    "bujur": "99.93 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5km BaratDaya Talu-Pasaman Barat",
+    "warning": [
+      "II-III Padang",
+      "III-IV Pasaman Barat",
+      "I-II Padang Panjang",
+      "I-II Bukit Tinggi"
+    ]
+  },
+  {
     "waktu": "01/03/2022 22:12:26 WIB",
     "lintang": "8.48 LS",
     "bujur": "107.57 BT",
@@ -255,17 +269,6 @@
     "wilayah": "Pusat gempa berada di laut 72 km Timur Laut Ruteng",
     "warning": [
       "II-III Ruteng"
-    ]
-  },
-  {
-    "waktu": "22/02/2022 10:26:01 WIB",
-    "lintang": "7.98 LS",
-    "bujur": "120.65 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 73 km timur laut Ruteng-Manggarai",
-    "warning": [
-      "III Ruteng"
     ]
   }
 ]
