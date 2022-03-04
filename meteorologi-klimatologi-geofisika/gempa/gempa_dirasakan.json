@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "04/03/2022 20:46:19 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat daya Onembute",
+    "warning": [
+      "II-III Onembute",
+      "II-III Rate-rate"
+    ]
+  },
+  {
     "waktu": "04/03/2022 20:14:19 WIB",
     "lintang": "7.06 LS",
     "bujur": "105.38 BT",
@@ -256,17 +268,6 @@
     "wilayah": "Pusat gempa berada di darat 7km BaratLaut Talu Pasaman Barat",
     "warning": [
       "IV Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "26/02/2022 06:58:07 WIB",
-    "lintang": "4.92 LS",
-    "bujur": "101.72 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km arah BaratLaut Enggano",
-    "warning": [
-      "II-III Bengkulu"
     ]
   }
 ]
