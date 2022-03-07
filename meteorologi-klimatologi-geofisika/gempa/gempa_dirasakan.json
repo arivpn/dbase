@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/03/2022 13:37:40 WIB",
+    "lintang": "8.3 LS",
+    "bujur": "116.69 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km barat laut Pulau Panjang",
+    "warning": [
+      "III Lombok Barat",
+      "III Lombok Timur"
+    ]
+  },
+  {
     "waktu": "07/03/2022 10:47:23 WIB",
     "lintang": "7.98 LS",
     "bujur": "122.47 BT",
@@ -262,17 +274,6 @@
       "III Labuan Bajo",
       "III Reo",
       "II Waingapu"
-    ]
-  },
-  {
-    "waktu": "28/02/2022 06:04:29 WIB",
-    "lintang": "5.15 LU",
-    "bujur": "94.73 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 98 km BaratDaya Jantho-Aceh Besar",
-    "warning": [
-      "II Banda Aceh"
     ]
   }
 ]
