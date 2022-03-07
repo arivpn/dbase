@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/03/2022 14:04:56 WIB",
+    "lintang": "0.43 LS",
+    "bujur": "131.92 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km BaratLaut Tambrauw",
+    "warning": [
+      "II-III Tambrauw"
+    ]
+  },
+  {
     "waktu": "07/03/2022 13:37:40 WIB",
     "lintang": "8.3 LS",
     "bujur": "116.69 BT",
@@ -260,20 +271,6 @@
     "warning": [
       "II-III Ruteng",
       "II Labuan Bajo"
-    ]
-  },
-  {
-    "waktu": "28/02/2022 21:16:58 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km Timur Laut Ruteng, Manggarai",
-    "warning": [
-      "III-IV Ruteng",
-      "III Labuan Bajo",
-      "III Reo",
-      "II Waingapu"
     ]
   }
 ]
